@@ -2,7 +2,10 @@
 
 We are working on something very exciting. Thanks for bearing with us in the meantime!
 
-![Image](https://farm9.staticflickr.com/8117/8688025712_925a13d5a1_b.jpg | width=500)
+![](https://farm9.staticflickr.com/8117/8688025712_925a13d5a1_b.jpg | width=500)
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+
 
 ### Markdown
 
