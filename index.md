@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Local Hues
 
-You can use the [editor on GitHub](https://github.com/localhues/localhues.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are working on something very exciting. Thanks for bearing with us in the meantime!
 
 ### Markdown
 
