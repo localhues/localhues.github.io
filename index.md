@@ -2,7 +2,6 @@
 
 We are working on something very exciting. Thanks for bearing with us in the meantime!
 
-![](https://farm9.staticflickr.com/8117/8688025712_925a13d5a1_b.jpg)
 <img src="https://farm9.staticflickr.com/8117/8688025712_925a13d5a1_b.jpg" width="480">
 
 
